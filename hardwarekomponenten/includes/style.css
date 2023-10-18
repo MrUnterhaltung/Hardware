@@ -1,0 +1,11 @@
+.debugError {
+    color: red;
+}
+
+.debugSucces {
+    color: green;
+}
+
+.debugInfo {
+    color: blue;
+}
